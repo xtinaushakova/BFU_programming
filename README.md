@@ -6,6 +6,7 @@
 
 Записи занятий доступны по ссылке
 https://drive.google.com/drive/u/1/folders/1I-sfPgiwxQ3yRUgYpMK6lfdllhpwJHwu
+
 Оценки и баллы
 https://docs.google.com/spreadsheets/d/1I5kM1g0GZ_zuT2FPUbW0lFA5-3W-VF3Rp-UpurCepGw/edit#gid=0
 
