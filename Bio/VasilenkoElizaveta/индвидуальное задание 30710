@@ -1,0 +1,7 @@
+s = input()
+t = input()
+d = 0
+for i in range(len(s)):
+  if s[i] != t[i]:
+    d+=1
+print(d)
